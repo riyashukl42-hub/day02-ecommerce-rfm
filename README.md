@@ -1,4 +1,4 @@
-# Day 02 — E-commerce Customer RFM Analysis
+# Day 02 — E-commerce Customer RFM Analysis:
 
 ## Problem statement
 Who are our most valuable customers and which ones are at risk of churning?
